@@ -1,1 +1,3 @@
-Прочие задания=====Курс: https://www.coursera.org/learn/diving-in-python
+РџСЂРѕС‡РёРµ РїСЂРѕРµРєС‚С‹
+======
+РљСѓСЂСЃ: https://www.coursera.org/learn/diving-in-python
