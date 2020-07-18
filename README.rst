@@ -1,1 +1,2 @@
-Прочие задания=====Курс: https://www.coursera.org/learn/diving-in-python
+Р Р°Р±РѕС‚Р° СЃ API Рё РїР°СЂСЃРёРЅРі
+=====
