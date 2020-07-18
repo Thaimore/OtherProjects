@@ -1,1 +1,2 @@
-Прочие задания=====Курс: https://www.coursera.org/learn/diving-in-python
+РџСЂРѕСЃС‚С‹Рµ TCP/IP РєР»РёРµРЅС‚С‹/СЃРµСЂРІРµСЂС‹
+=====
